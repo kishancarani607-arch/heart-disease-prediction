@@ -1,0 +1,39 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9ac8a891-12a7-4910-a2ea-5ab445cfd2ad",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "venv/\n",
+    "__pycache__/\n",
+    ".ipynb_checkpoints/\n",
+    "*.pyc\n",
+    ".DS_Store"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.6"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
